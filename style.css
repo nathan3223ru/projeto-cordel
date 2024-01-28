@@ -1,5 +1,6 @@
-@charset "UTF-8"
- @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Passion+One&family=Sriracha&display=swap'); 
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Passion+One&family=Sriracha&display=swap'); 
+
 :root{
    --fonte1: verdana, geneva, tahoma, sans-serif;
    --fonte2:  'Bebas Neue', sans-serif;
@@ -70,7 +71,7 @@
    text-shadow: 1px 1px 0px black;
  }
  section#img01{
-      background-image: url(../des012/imagens/abu.jpg);
+      background-image: url(imagens/abu.jpg);
       background-position:  center;
       background-size: cover;
  }
